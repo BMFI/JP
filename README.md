@@ -1,1 +1,1 @@
-# JP Front End fpr BMFI.
+# JP Front End for BMFI.
